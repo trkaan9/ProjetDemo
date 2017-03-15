@@ -1,0 +1,11 @@
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\bin\iPhone\Debug\App1iOS.exe
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\bin\iPhone\Debug\App1iOS.pdb
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojResolveAssemblyReference.cache
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\App1iOS.exe
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\App1iOS.pdb
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\obj\iPhone\Debug\App1iOS.exe.mdb
+C:\Users\forma1702\documents\visual studio 2015\Projects\App1\App1\App1.iOS\bin\iPhone\Debug\App1iOS.exe.mdb
